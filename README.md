@@ -7,5 +7,6 @@
 
 ## 🌐 Websites made using Matter.js
 
--
--
+- [Bitwave Games](https://www.bitwavegames.com/) : [An award nominated](https://www.awwwards.com/sites/bitwave-games) creative design web interactive landing page for *Bitwave Games*, a Swedish Indie Game Studio made with Matter.js, webflow, animations and more. 
+- [Bounce Studio](https://bounce.studio/) : Home page of *Bounce Studio*, a US based multimedia design company that specializes in dynamic, interactive media.
+- [Sketch London](https://sketch.london/) : Landing webpage for dynamic customer navigation of *Sketch*, a popular dining and art destination in London. 
